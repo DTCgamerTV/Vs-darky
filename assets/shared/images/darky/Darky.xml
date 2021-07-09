@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Darky.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Idle0000" x="0" y="0" width="272" height="600"/>
+	<SubTexture name="Idle0001" x="0" y="0" width="272" height="600"/>
+	<SubTexture name="Idle0002" x="0" y="0" width="272" height="600"/>
+	<SubTexture name="Idle0003" x="0" y="0" width="272" height="600"/>
+	<SubTexture name="Idle0004" x="0" y="0" width="272" height="600"/>
+	<SubTexture name="Idle0005" x="0" y="0" width="272" height="600"/>
+	<SubTexture name="Idle0006" x="0" y="0" width="272" height="600"/>
+	<SubTexture name="Idle0007" x="0" y="0" width="272" height="600"/>
+	<SubTexture name="Idle0008" x="0" y="0" width="272" height="600"/>
+	<SubTexture name="Left0000" x="272" y="0" width="305" height="569"/>
+	<SubTexture name="NDown0000" x="577" y="0" width="288" height="469"/>
+	<SubTexture name="Right0000" x="865" y="0" width="319" height="564"/>
+	<SubTexture name="Up0000" x="1184" y="0" width="297" height="572"/>
+</TextureAtlas>
